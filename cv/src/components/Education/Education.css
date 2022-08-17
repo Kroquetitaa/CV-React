@@ -1,0 +1,13 @@
+.infoCourse{
+    margin: 50px;
+}
+
+.infoCourse--title{
+    color: blanchedalmond;
+    font-size: 25px;
+}
+
+.infoCourse--center{
+    color: ghostwhite;
+    font-size: 20px;
+}

@@ -1,0 +1,23 @@
+.infoExperiencies{
+    margin: 100px;
+}
+
+.infoExperiencies--name{
+    color: blanchedalmond;
+    font-size: 25px;
+}
+
+.infoExperiencies--where {
+    color: ghostwhite;
+    font-size: 20px;
+}
+
+.infoExperiencies--skills{
+    color: ghostwhite;
+    font-size: 15px;
+}
+
+.infoExperiencies--description{
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

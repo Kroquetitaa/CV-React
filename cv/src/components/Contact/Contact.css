@@ -1,0 +1,27 @@
+.contact{
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-items: center;
+    align-items: center;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: lightslategrey;
+    margin-top: -50px;
+}
+
+h3{
+    font-size: 20px;
+    margin: 10px;
+}
+
+hr{
+    width: 50%;
+    border-width: 5px;
+    border-color: lightslategrey;
+    margin-top: 25px;
+}
+
+.phone, .email {
+    word-spacing: 10px;
+}
